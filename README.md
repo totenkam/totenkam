@@ -9,8 +9,3 @@ Estou me desenvolvendo na linguagem JavaScript ♨️📜
 Música é vida!! 🎵🤌
 print("Hello World") Lover (Lua, óbvio 🙄)
 Utilizando para compartilhar projetos escolares :)
-
-Você pode entrar em contato comigo 📫
-
-gilmarcudeprego43@gmail.com
-@jao.3ds
